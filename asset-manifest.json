@@ -38,7 +38,7 @@
     "main.ff803ed5.js.map": "/F4C/static/js/main.ff803ed5.js.map"
   },
   "entrypoints": [
-    "/F4C/static/css/main.309d2863.css",
-    "/F4C/static/js/main.ff803ed5.js"
+    "static/css/main.309d2863.css",
+    "static/js/main.ff803ed5.js"
   ]
 }
