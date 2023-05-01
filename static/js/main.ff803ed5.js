@@ -15895,7 +15895,7 @@
                           },
                           children: (0, Ze.jsxs)("p", {
                             children: [
-                              (0, Ze.jsx)("img", { src: "../img/ru-lang.png" }),
+                              (0, Ze.jsx)("img", { src: "/F4C/img/ru-lang.png" }),
                               " ",
                               (0, Ze.jsx)("span", { children: "RU" }),
                             ],
@@ -15914,7 +15914,7 @@
                           children: (0, Ze.jsxs)("p", {
                             children: [
                               (0, Ze.jsx)("img", {
-                                src: "../img/britain-lang.png",
+                                src: "/F4C/img/britain-lang.png",
                               }),
                               " ",
                               (0, Ze.jsx)("span", { children: "EN" }),
@@ -16046,49 +16046,49 @@
       }
       var sn = [
           {
-            img: "../img/home/vanek-rhombus.png",
+            img: "/F4C/img/home/vanek-rhombus.png",
             text: "\u041a\u0443\u0440\u0441 \u0431\u044b\u043b \u043e\u0447\u0435\u043d\u044c \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0442\u0438\u0432\u043d\u044b\u0439 \u0438 \u043f\u043e\u043b\u0435\u0437\u043d\u044b\u0439. \u0411\u043b\u0430\u0433\u043e\u0434\u0430\u0440\u044e",
             name: "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440",
             id: un(),
           },
           {
-            img: "../img/home/vanek-rhombus.png",
+            img: "/F4C/img/home/vanek-rhombus.png",
             text: "\u041c\u043d\u0435 \u043e\u0447\u0435\u043d\u044c \u043f\u043e\u043d\u0440\u0430\u0432\u0438\u043b\u0441\u044f \u043a\u0443\u0440\u0441. \u0418\u043d\u0441\u0442\u0440\u0443\u043a\u0442\u043e\u0440 \u0431\u044b\u043b \u043e\u0447\u0435\u043d\u044c \u0445\u043e\u0440\u043e\u0448\u043e \u043e\u0441\u0432\u0435\u0434\u043e\u043c\u043b\u0435\u043d \u0438 \u0441\u043c\u043e\u0433 \u043e\u0442\u0432\u0435\u0442\u0438\u0442\u044c \u043d\u0430 \u0432\u0441\u0435 \u043c\u043e\u0438 \u0432\u043e\u043f\u0440\u043e\u0441\u044b. \u042d\u0442\u043e \u043e\u0442\u043b\u0438\u0447\u043d\u043e\u0435 \u043c\u0435\u0441\u0442\u043e \u0434\u043b\u044f \u0438\u0437\u0443\u0447\u0435\u043d\u0438\u044f \u0438 \u0442\u043e\u0440\u0433\u043e\u0432\u043b\u0438 \u043a\u0440\u0438\u043f\u0442\u043e\u0432\u0430\u043b\u044e\u0442\u0430\u043c\u0438.",
             name: "\u0412\u0430\u043d\u0435\u043a",
             id: un(),
           },
           {
-            img: "../img/home/vanek-rhombus.png",
+            img: "/F4C/img/home/vanek-rhombus.png",
             text: "\u0411\u043b\u0430\u0433\u043e\u0434\u0430\u0440\u044f \u0434\u0430\u043d\u043d\u043e\u043c\u0443 \u043a\u0443\u0440\u0441\u0443 \u044f \u043d\u0430\u043a\u043e\u043d\u0435\u0446 \u0441\u043c\u043e\u0433 \u0441\u0442\u0430\u0442\u044c \u0442\u0435\u043c, \u043a\u0435\u043c \u0432\u0441\u0435\u0433\u0434\u0430 \u043c\u0435\u0447\u0442\u0430\u043b - \u0442\u0440\u0435\u0439\u0434\u0435\u0440\u043e\u043c. \u0421\u043f\u0430\u0441\u0438\u0431\u043e, \u0441\u0430\u043c \u0431\u044b \u044f \u0442\u043e\u0447\u043d\u043e \u043d\u0435 \u0441\u043c\u043e\u0433.",
             name: "\u0418\u0433\u043e\u0440\u044c",
             id: un(),
           },
           {
-            img: "../img/home/vanek-rhombus.png",
+            img: "/F4C/img/home/vanek-rhombus.png",
             text: "\u041c\u0435\u043d\u0442\u043e\u0440\u044b \u043e\u0442\u0432\u0435\u0447\u0430\u044e\u0442 \u043d\u0430 \u043b\u044e\u0431\u044b\u0435 \u0432\u043e\u043f\u0440\u043e\u0441\u044b, \u043d\u0435 \u043f\u043e\u043d\u044f\u0442\u043d\u043e \u043e\u0442\u043a\u0443\u0434\u0430 \u0443 \u043d\u0438\u0445 \u0441\u0442\u043e\u043b\u044c\u043a\u043e \u0437\u043d\u0430\u043d\u0438\u0439 \u0432 \u0433\u043e\u043b\u043e\u0432\u0435. \u041a\u0443\u0440\u0441 \u043e\u0447\u0435\u043d\u044c \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0442\u0438\u0432\u043d\u044b\u0439",
             name: "\u0410\u0440\u0442\u0443\u0440",
             id: un(),
           },
           {
-            img: "../img/home/vanek-rhombus.png",
+            img: "/F4C/img/home/vanek-rhombus.png",
             text: "\u041c\u043d\u0435 \u043e\u0447\u0435\u043d\u044c \u043f\u043e\u043d\u0440\u0430\u0432\u0438\u043b\u0441\u044f \u043a\u0443\u0440\u0441. \u0412\u0441\u044f \u0441\u0438\u0441\u0442\u0435\u043c\u0430 \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u043e\u0432\u0430\u043d\u0430 \u0438 \u043a\u0430\u0447\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u0430, \u0442\u0430\u043a\u0436\u0435 \u043c\u0435\u043d\u0442\u043e\u0440\u044b \u043d\u0430\u0441\u0442\u043e\u044f\u0449\u0438\u0435 \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u0438\u043e\u043d\u0430\u043b\u044b",
             name: "\u041c\u0430\u043a\u0441\u0438\u043c\u0438\u043b\u044c\u044f\u043d",
             id: un(),
           },
           {
-            img: "../img/home/vanek-rhombus.png",
+            img: "/F4C/img/home/vanek-rhombus.png",
             text: "\u0421\u043f\u0430\u0441\u0438\u0431\u043e \u0437\u0430 \u043a\u0443\u0440\u0441, \u043e\u0442 \u043d\u0435\u0433\u043e \u044f\u0432\u043d\u043e \u0431\u043e\u043b\u044c\u0448\u0435 \u043f\u043e\u043b\u044c\u0437\u044b, \u0447\u0435\u043c \u0435\u0441\u043b\u0438 \u0431\u044b \u044f \u043e\u0431\u0443\u0447\u0430\u043b\u0441\u044f \u0441\u0430\u043c\u043e\u0441\u0442\u043e\u044f\u0442\u0435\u043b\u044c\u043d\u043e.",
             name: "\u0410\u043d\u0442\u043e\u043d",
             id: un(),
           },
           {
-            img: "../img/home/vanek-rhombus.png",
+            img: "/F4C/img/home/vanek-rhombus.png",
             text: "\u041e\u0447\u0435\u043d\u044c \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0442\u0438\u0432\u043d\u044b\u0439 \u043a\u0443\u0440\u0441, \u0434\u0443\u043c\u0430\u044e, \u0442\u0430\u043a\u043e\u0435 \u043a\u0430\u0447\u0435\u0441\u0442\u0432\u043e \u0440\u0435\u0434\u043a\u043e \u0433\u0434\u0435 \u0432\u0441\u0442\u0440\u0435\u0442\u0438\u0448\u044c.",
             name: "\u0413\u0430\u0431\u0434\u0443\u0440\u0430\u0445\u043c\u0430\u043d",
             id: un(),
           },
           {
-            img: "../img/home/vanek-rhombus.png",
+            img: "/F4C/img/home/vanek-rhombus.png",
             text: "\u0412\u0441\u0451 \u0447\u0435\u0442\u043a\u043e",
             name: "\u0414\u0435\u043c\u0438\u0434",
             id: un(),
@@ -16096,49 +16096,49 @@
         ],
         cn = [
           {
-            img: "../img/home/vanek-rhombus.png",
+            img: "/F4C/img/home/vanek-rhombus.png",
             text: "The course was very informative and helpful. Thank you.",
             name: "Alexandr",
             id: un(),
           },
           {
-            img: "../img/home/vanek-rhombus.png",
+            img: "/F4C/img/home/vanek-rhombus.png",
             text: "I really enjoyed the course. The instructor was very knowledgeable and was able to answer all my questions. This is a great place to learn and trade cryptocurrencies.",
             name: "Vanek",
             id: un(),
           },
           {
-            img: "../img/home/vanek-rhombus.png",
+            img: "/F4C/img/home/vanek-rhombus.png",
             text: "Thanks to this course I was finally able to become what I've always dreamed of - a trader. Thank you, I definitely could not have done it myself.",
             name: "Igor",
             id: un(),
           },
           {
-            img: "../img/home/vanek-rhombus.png",
+            img: "/F4C/img/home/vanek-rhombus.png",
             text: "Mentors answer any questions, it's not clear where they got so much knowledge in their heads. The course is very informative.",
             name: "Arthur",
             id: un(),
           },
           {
-            img: "../img/home/vanek-rhombus.png",
+            img: "/F4C/img/home/vanek-rhombus.png",
             text: "I really liked the course. The whole system is organized and of high quality, also the mentors are real professionals.",
             name: "Maximilian",
             id: un(),
           },
           {
-            img: "../img/home/vanek-rhombus.png",
+            img: "/F4C/img/home/vanek-rhombus.png",
             text: "Thank you for the course, it is clearly more helpful than if I had studied on my own.",
             name: "Anton",
             id: un(),
           },
           {
-            img: "../img/home/vanek-rhombus.png",
+            img: "/F4C/img/home/vanek-rhombus.png",
             text: "Very informative course, I think this quality is rare to find.",
             name: "Gabdurahman",
             id: un(),
           },
           {
-            img: "../img/home/vanek-rhombus.png",
+            img: "/F4C/img/home/vanek-rhombus.png",
             text: "It's cool.",
             name: "Demid",
             id: un(),
@@ -16149,7 +16149,7 @@
             name: "\u0412\u0430\u043d\u0435\u043a",
             description:
               "\u0423\u043f\u0440\u0430\u0432\u043b\u044f\u044e\u0449\u0438\u0439 \u043f\u0430\u0440\u0442\u043d\u0435\u0440 \u0438 \u043e\u0434\u0438\u043d \u0438\u0437 \u043e\u0441\u043d\u043e\u0432\u0430\u0442\u0435\u043b\u0435\u0439 F4C.",
-            src: "../img/home/vanek.png",
+            src: "/F4C/img/home/vanek.png",
             post: "\u0423\u043f\u0440\u0430\u0432\u043b\u044f\u044e\u0449\u0438\u0439 \u043f\u0430\u0440\u0442\u043d\u0435\u0440, \u0442\u0435\u0445\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0434\u0438\u0440\u0435\u043a\u0442\u043e\u0440 \u0438 \u043e\u0434\u0438\u043d \u0438\u0437 \u043e\u0441\u043d\u043e\u0432\u0430\u0442\u0435\u043b\u0435\u0439 F4C.",
             description2:
               "\u041f\u0440\u043e \u043a\u0440\u0438\u043f\u0442\u043e\u0440\u044b\u043d\u043e\u043a \u0443\u0437\u043d\u0430\u043b \u0432 \u043a\u043e\u043d\u0446\u0435 2020. \u041d\u0430\u0447\u0430\u043b \u0441 \u0443\u0447\u0430\u0441\u0442\u0438\u044f \u0432 ICO, \u0434\u0430\u043b\u0435\u0435 \u0443\u0441\u0442\u0440\u043e\u0438\u043b\u0441\u044f \u0432 \u043f\u0440\u043e\u043f-\u0442\u0440\u0435\u0439\u0434\u0438\u043d\u0433\u043e\u0432\u0443\u044e \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u044e \u0438 \u043d\u0430\u0447\u0430\u043b \u0438\u0437\u0443\u0447\u0430\u0442\u044c \u0441\u043a\u0430\u043b\u044c\u043f\u0438\u043d\u0433. \u0427\u0435\u0440\u0435\u0437 \u0433\u043e\u0434 \u0441\u0442\u0430\u043b \u043e\u0434\u043d\u0438\u043c \u0438\u0437 \u043e\u0441\u043d\u043e\u0432\u0430\u0442\u0435\u043b\u0435\u0439 F4C.",
@@ -16159,7 +16159,7 @@
             name: "\u0415\u0433\u043e\u0440",
             description:
               "\u0423\u043f\u0440\u0430\u0432\u043b\u044f\u044e\u0449\u0438\u0439 \u043f\u0430\u0440\u0442\u043d\u0435\u0440 \u0438 \u043e\u0434\u0438\u043d \u0438\u0437 \u043e\u0441\u043d\u043e\u0432\u0430\u0442\u0435\u043b\u0435\u0439 F4C.",
-            src: "../img/home/egor.png",
+            src: "/F4C/img/home/egor.png",
             post: "\u0423\u043f\u0440\u0430\u0432\u043b\u044f\u044e\u0449\u0438\u0439 \u043f\u0430\u0440\u0442\u043d\u0435\u0440, \u0442\u0435\u0445\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0434\u0438\u0440\u0435\u043a\u0442\u043e\u0440 \u0438 \u043e\u0434\u0438\u043d \u0438\u0437 \u043e\u0441\u043d\u043e\u0432\u0430\u0442\u0435\u043b\u0435\u0439 F4C.",
             description2:
               "\u042d\u0442\u043e\u0442 \u0447\u0435\u043b\u043e\u0432\u0435\u043a \u0432\u043f\u0435\u0440\u0432\u044b\u0435 \u0443\u0437\u043d\u0430\u043b \u043e \u043a\u0440\u0438\u043f\u0442\u043e\u0440\u044b\u043d\u043a\u0435 \u0432 \u043a\u043e\u043d\u0446\u0435 2020 \u0433\u043e\u0434\u0430. \u041f\u043e\u0441\u043b\u0435 \u044d\u0442\u043e\u0433\u043e \u043e\u043d \u0443\u0441\u0442\u0440\u043e\u0438\u043b\u0441\u044f \u0432 \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u044e, \u0437\u0430\u043d\u0438\u043c\u0430\u044e\u0449\u0443\u044e\u0441\u044f \u043f\u0440\u043e\u043f-\u0442\u0440\u0435\u0439\u0434\u0438\u043d\u0433\u043e\u043c, \u0438 \u043d\u0430\u0447\u0430\u043b \u0438\u0437\u0443\u0447\u0430\u0442\u044c \u0441\u043a\u0430\u043b\u044c\u043f\u0438\u043d\u0433 - \u0442\u043e\u0440\u0433\u043e\u0432\u0443\u044e \u0441\u0442\u0440\u0430\u0442\u0435\u0433\u0438\u044e, \u043e\u0441\u043d\u043e\u0432\u0430\u043d\u043d\u0443\u044e \u043d\u0430 \u0447\u0430\u0441\u0442\u044b\u0445 \u0438 \u0431\u044b\u0441\u0442\u0440\u044b\u0445 \u0441\u0434\u0435\u043b\u043a\u0430\u0445. \u0427\u0435\u0440\u0435\u0437 \u0433\u043e\u0434 \u043e\u043d \u0440\u0435\u0448\u0438\u043b \u043e\u0441\u043d\u043e\u0432\u0430\u0442\u044c \u0441\u0432\u043e\u044e \u0441\u043e\u0431\u0441\u0442\u0432\u0435\u043d\u043d\u0443\u044e \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u044e F4C \u0432 \u043e\u0431\u043b\u0430\u0441\u0442\u0438 \u043a\u0440\u0438\u043f\u0442\u043e\u0432\u0430\u043b\u044e\u0442\u043d\u043e\u0433\u043e \u0442\u0440\u0435\u0439\u0434\u0438\u043d\u0433\u0430, \u0441\u0442\u0430\u0432 \u0435\u0435 \u043e\u0434\u043d\u0438\u043c \u0438\u0437 \u043e\u0441\u043d\u043e\u0432\u0430\u0442\u0435\u043b\u0435\u0439.",
@@ -16169,7 +16169,7 @@
             name: "\u0418\u0433\u043e\u0440\u044c",
             description:
               "\u0423\u043f\u0440\u0430\u0432\u043b\u044f\u044e\u0449\u0438\u0439 \u043f\u0430\u0440\u0442\u043d\u0435\u0440, \u0442\u0435\u0445\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0434\u0438\u0440\u0435\u043a\u0442\u043e\u0440 \u0438 \u043e\u0434\u0438\u043d \u0438\u0437 \u043e\u0441\u043d\u043e\u0432\u0430\u0442\u0435\u043b\u0435\u0439 F4C",
-            src: "../img/home/igor1.png",
+            src: "/F4C/img/home/igor1.png",
             post: "\u0423\u043f\u0440\u0430\u0432\u043b\u044f\u044e\u0449\u0438\u0439 \u043f\u0430\u0440\u0442\u043d\u0435\u0440, \u0442\u0435\u0445\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0434\u0438\u0440\u0435\u043a\u0442\u043e\u0440 \u0438 \u043e\u0434\u0438\u043d \u0438\u0437 \u043e\u0441\u043d\u043e\u0432\u0430\u0442\u0435\u043b\u0435\u0439 F4C",
             description2:
               "\u0413\u043b\u0430\u0432\u043d\u044b\u0439 \u043e\u0441\u043d\u043e\u0432\u0430\u0442\u0435\u043b\u044c F4C, \u043d\u0430\u0447\u0430\u043b \u0441\u0432\u043e\u044e \u043a\u0430\u0440\u044c\u0435\u0440\u0443 \u0432 \u0438\u043d\u0432\u0435\u0441\u0442\u0438\u0446\u0438\u043e\u043d\u043d\u043e\u043c \u0431\u0430\u043d\u043a\u0435, \u0433\u0434\u0435 \u043f\u0440\u043e\u0448\u0435\u043b \u043f\u0443\u0442\u044c \u043e\u0442 \u0430\u043d\u0430\u043b\u0438\u0442\u0438\u043a\u0430 \u0434\u043e \u0443\u043f\u0440\u0430\u0432\u043b\u044f\u044e\u0449\u0435\u0433\u043e \u0434\u0438\u0440\u0435\u043a\u0442\u043e\u0440\u0430. \u0421\u043f\u0443\u0441\u0442\u044f \u043d\u0435\u0441\u043a\u043e\u043b\u044c\u043a\u043e \u043b\u0435\u0442 \u0440\u0430\u0431\u043e\u0442\u044b \u0432 \u044d\u0442\u043e\u0439 \u043e\u0431\u043b\u0430\u0441\u0442\u0438 \u043e\u0441\u043d\u043e\u0432\u0430\u043b F4C, \u0447\u0442\u043e\u0431\u044b \u043e\u0431\u044a\u0435\u0434\u0438\u043d\u0438\u0442\u044c \u043a\u043e\u043c\u0430\u043d\u0434\u0443 \u0435\u0434\u0438\u043d\u043e\u043c\u044b\u0448\u043b\u0435\u043d\u043d\u0438\u043a\u043e\u0432 \u0438 \u0441\u043e\u0437\u0434\u0430\u0442\u044c \u0440\u0435\u0432\u043e\u043b\u044e\u0446\u0438\u043e\u043d\u043d\u0443\u044e \u043f\u043b\u0430\u0442\u0444\u043e\u0440\u043c\u0443 \u0434\u043b\u044f \u0438\u043d\u0432\u0435\u0441\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f \u0432 \u043a\u0440\u0438\u043f\u0442\u043e\u0432\u0430\u043b\u044e\u0442\u044b \u0438 \u0431\u043b\u043e\u043a\u0447\u0435\u0439\u043d-\u043f\u0440\u043e\u0435\u043a\u0442\u044b.",
@@ -16178,7 +16178,7 @@
           {
             name: "\u0418\u0433\u043e\u0440\u044c",
             description: "\u041c\u0435\u043d\u0442\u043e\u0440",
-            src: "../img/home/igor2.png",
+            src: "/F4C/img/home/igor2.png",
             post: "\u041c\u0435\u043d\u0442\u043e\u0440",
             description2:
               "\u041d\u0430\u0447\u0430\u043b \u0438\u043d\u0442\u0435\u0440\u0435\u0441\u043e\u0432\u0430\u0442\u044c\u0441\u044f \u043a\u0440\u0438\u043f\u0442\u043e\u0432\u0430\u043b\u044e\u0442\u0430\u043c\u0438 \u0435\u0449\u0435 \u0432 2017 \u0433\u043e\u0434\u0443, \u043a\u043e\u0433\u0434\u0430 \u0431\u0438\u0442\u043a\u043e\u0438\u043d \u0434\u043e\u0441\u0442\u0438\u0433 \u0441\u0432\u043e\u0435\u0433\u043e \u0438\u0441\u0442\u043e\u0440\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u043c\u0430\u043a\u0441\u0438\u043c\u0443\u043c\u0430. \u0417\u0430 \u0432\u0440\u0435\u043c\u044f \u0441\u0432\u043e\u0435\u0433\u043e \u043f\u0443\u0442\u0438 \u043e\u043d \u043f\u0440\u043e\u0448\u043b\u0430 \u0434\u043b\u0438\u043d\u043d\u044b\u0439 \u043f\u0443\u0442\u044c \u043e\u0442 \u0438\u043d\u0432\u0435\u0441\u0442\u043e\u0440\u0430 \u0434\u043e \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0442\u0440\u0435\u0439\u0434\u0435\u0440\u0430. \u0421\u0435\u0433\u043e\u0434\u043d\u044f \u0440\u0430\u0431\u043e\u0442\u0430\u0435\u0442 \u0432 F4C, \u0433\u0434\u0435 \u043f\u043e\u043c\u043e\u0433\u0430\u0435\u0442 \u0434\u0440\u0443\u0433\u0438\u043c \u0442\u0440\u0435\u0439\u0434\u0435\u0440\u0430\u043c \u0440\u0430\u0437\u0432\u0438\u0432\u0430\u0442\u044c\u0441\u044f \u0438 \u0434\u043e\u0441\u0442\u0438\u0433\u0430\u0442\u044c \u0443\u0441\u043f\u0435\u0445\u0430 \u0432 \u043c\u0438\u0440\u0435 \u043a\u0440\u0438\u043f\u0442\u043e\u0432\u0430\u043b\u044e\u0442.",
@@ -16187,7 +16187,7 @@
           {
             name: "\u0420\u043e\u043c\u0430\u043d",
             description: "\u041c\u0435\u043d\u0442\u043e\u0440",
-            src: "../img/home/roman.png",
+            src: "/F4C/img/home/roman.png",
             post: "\u041c\u0435\u043d\u0442\u043e\u0440",
             description2:
               "\u041d\u0430\u0447\u0430\u043b \u0441\u0432\u043e\u0439 \u043f\u0443\u0442\u044c \u0432 2020 \u0433\u043e\u0434\u0443 \u0438 \u0441 \u0442\u0435\u0445 \u043f\u043e\u0440 \u043d\u0435 \u043f\u0435\u0440\u0435\u0441\u0442\u0430\u0432\u0430\u043b \u0438\u0437\u0443\u0447\u0430\u0442\u044c \u0438 \u0430\u043d\u0430\u043b\u0438\u0437\u0438\u0440\u043e\u0432\u0430\u0442\u044c \u044d\u0442\u043e\u0442 \u0440\u044b\u043d\u043e\u043a. \u0411\u043b\u0430\u0433\u043e\u0434\u0430\u0440\u044f \u0441\u0432\u043e\u0435\u043c\u0443 \u043e\u043f\u044b\u0442\u0443 \u0438 \u0437\u043d\u0430\u043d\u0438\u044f\u043c  \u0441\u0435\u0433\u043e\u0434\u043d\u044f \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u043c\u0435\u043d\u0442\u043e\u0440\u043e\u043c \u043c\u043d\u043e\u0433\u0438\u0445 \u0442\u0440\u0435\u0439\u0434\u0435\u0440\u043e\u0432 \u0432 F4C. \u041e\u043d \u043d\u0435 \u0442\u043e\u043b\u044c\u043a\u043e \u043f\u043e\u043c\u043e\u0433\u0430\u0435\u0442 \u0438\u043c \u0440\u0430\u0437\u0432\u0438\u0432\u0430\u0442\u044c\u0441\u044f \u0432 \u043a\u0430\u0447\u0435\u0441\u0442\u0432\u0435 \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u0438\u043e\u043d\u0430\u043b\u043e\u0432, \u043d\u043e \u0438 \u0434\u0435\u043b\u0438\u0442\u0441\u044f \u0441\u0432\u043e\u0438\u043c\u0438 \u0441\u043e\u0432\u0435\u0442\u0430\u043c\u0438 \u0438 \u0441\u0442\u0440\u0430\u0442\u0435\u0433\u0438\u044f\u043c\u0438.",
@@ -16196,7 +16196,7 @@
           {
             name: "\u041c\u0430\u0442\u0432\u0435\u0439",
             description: "\u041c\u0435\u043d\u0442\u043e\u0440",
-            src: "../img/home/matvei.png",
+            src: "/F4C/img/home/matvei.png",
             post: "\u041c\u0435\u043d\u0442\u043e\u0440",
             description2:
               "\u041f\u0440\u0438\u0448\u0435\u043b \u043d\u0430 \u043a\u0440\u0438\u043f\u0442\u043e\u0440\u044b\u043d\u043e\u043a \u0441\u043e\u0432\u0441\u0435\u043c \u043d\u0435\u0434\u0430\u0432\u043d\u043e, \u043d\u043e \u0431\u044b\u0441\u0442\u0440\u043e \u043d\u0430\u0447\u0430\u043b \u043f\u0440\u043e\u0433\u0440\u0435\u0441\u0441\u0438\u0440\u043e\u0432\u0430\u0442\u044c \u0438\u0437-\u0437\u0430 \u0441\u0432\u043e\u0435\u0433\u043e \u0443\u0441\u0435\u0440\u0434\u0438\u044f \u0438 \u043d\u0430\u0441\u0442\u043e\u0439\u0447\u0438\u0432\u043e\u0441\u0442\u0438. \u0411\u043b\u0430\u0433\u043e\u0434\u0430\u0440\u044f \u0447\u0435\u043c\u0443 \u0441\u0435\u0433\u043e\u0434\u043d\u044f \u0443\u0441\u043f\u0435\u0448\u043d\u043e \u0440\u0430\u0431\u043e\u0442\u0430\u0435\u0442 \u0432 F4C \u0438 \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u043c\u0435\u043d\u0442\u043e\u0440\u043e\u043c \u0434\u043b\u044f \u0434\u0440\u0443\u0433\u0438\u0445 \u043d\u0430\u0447\u0438\u043d\u0430\u044e\u0449\u0438\u0445 \u0442\u0440\u0435\u0439\u0434\u0435\u0440\u043e\u0432.",
@@ -16207,7 +16207,7 @@
           {
             name: "Vanek",
             description: "Managing partner and one of the founders of F4C.",
-            src: "../img/home/vanek.png",
+            src: "/F4C/img/home/vanek.png",
             post: "Managing partner, technical director and one of the founders of F4C.",
             description2:
               "I found out about the crypto market at the end of 2020. I started with participation in ICOs, then I got a job at a proprietary trading company and began to study scalping. A year later I became one of the founders of F4C.",
@@ -16216,7 +16216,7 @@
           {
             name: "Egor",
             description: "Managing partner and one of the founders of F4C.",
-            src: "../img/home/egor.png",
+            src: "/F4C/img/home/egor.png",
             post: "Managing partner, technical director and one of the founders of F4C.",
             description2:
               "This man first learned about the crypto market in late 2020. After that, he got a job at a proprietary trading company and started to learn scalping, a trading strategy based on frequent and fast trades. A year later, he decided to start his own cryptocurrency trading company, F4C, co-founding it.",
@@ -16226,7 +16226,7 @@
             name: "Igor",
             description:
               "Managing partner, technical director and co-founder of F4C",
-            src: "../img/home/igor1.png",
+            src: "/F4C/img/home/igor1.png",
             post: "Managing partner, technical director and co-founder of F4C",
             description2:
               "The main founder of F4C, started his career in an investment bank, where he worked his way up from analyst to managing director. After several years in the field, he founded F4C to bring together a team of like-minded people to create a revolutionary platform for investing in cryptocurrencies and blockchain projects.",
@@ -16235,7 +16235,7 @@
           {
             name: "Igor",
             description: "Mentor",
-            src: "../img/home/igor2.png",
+            src: "/F4C/img/home/igor2.png",
             post: "Mentor",
             description2:
               "He began his interest in cryptocurrencies back in 2017, when bitcoin reached its historic high. Along the way, he has come a long way from investor to professional trader. Today he works at F4C, where he helps other traders develop and succeed in the cryptocurrency world.",
@@ -16244,7 +16244,7 @@
           {
             name: "Roman",
             description: "Mentor",
-            src: "../img/home/roman.png",
+            src: "/F4C/img/home/roman.png",
             post: "Mentor",
             description2:
               "He started his journey in 2020 and has not stopped studying and analyzing this market since then. Thanks to his experience and knowledge today he is a mentor to many traders in F4C. He not only helps them develop as professionals, but also shares his advice and strategies.",
@@ -16253,7 +16253,7 @@
           {
             name: "Matvei",
             description: "Mentor",
-            src: "../img/home/matvei.png",
+            src: "/F4C/img/home/matvei.png",
             post: "Mentor",
             description2:
               "He joined the crypto market quite recently, but quickly began to progress because of his diligence and persistence. That's why he successfully works in F4C today and is a mentor for other novice traders.",
@@ -16262,11 +16262,11 @@
         ],
         pn = sn.map(function (e) {
           return (0,
-          Ze.jsx)("div", { className: "slider__card", children: (0, Ze.jsxs)("div", { className: "slider__text__wrapper", children: [(0, Ze.jsx)("img", { className: "slider__stars", src: "../img/home/stars.png" }), (0, Ze.jsx)("p", { children: e.text }), (0, Ze.jsxs)("div", { className: "slider__rhombus__container", children: [(0, Ze.jsx)("img", { className: "slider__rhombus", src: e.img, width: "60px", height: "65px" }), (0, Ze.jsx)("span", { children: e.name })] })] }) }, e.id);
+          Ze.jsx)("div", { className: "slider__card", children: (0, Ze.jsxs)("div", { className: "slider__text__wrapper", children: [(0, Ze.jsx)("img", { className: "slider__stars", src: "/F4C/img/home/stars.png" }), (0, Ze.jsx)("p", { children: e.text }), (0, Ze.jsxs)("div", { className: "slider__rhombus__container", children: [(0, Ze.jsx)("img", { className: "slider__rhombus", src: e.img, width: "60px", height: "65px" }), (0, Ze.jsx)("span", { children: e.name })] })] }) }, e.id);
         }),
         hn = cn.map(function (e) {
           return (0,
-          Ze.jsx)("div", { className: "slider__card", children: (0, Ze.jsxs)("div", { className: "slider__text__wrapper", children: [(0, Ze.jsx)("img", { className: "slider__stars", src: "../img/home/stars.png" }), (0, Ze.jsx)("p", { children: e.text }), (0, Ze.jsxs)("div", { className: "slider__rhombus__container", children: [(0, Ze.jsx)("img", { className: "slider__rhombus", src: e.img, width: "60px", height: "65px" }), (0, Ze.jsx)("span", { children: e.name })] })] }) }, e.id);
+          Ze.jsx)("div", { className: "slider__card", children: (0, Ze.jsxs)("div", { className: "slider__text__wrapper", children: [(0, Ze.jsx)("img", { className: "slider__stars", src: "/F4C/img/home/stars.png" }), (0, Ze.jsx)("p", { children: e.text }), (0, Ze.jsxs)("div", { className: "slider__rhombus__container", children: [(0, Ze.jsx)("img", { className: "slider__rhombus", src: e.img, width: "60px", height: "65px" }), (0, Ze.jsx)("span", { children: e.name })] })] }) }, e.id);
         }),
         mn = function (e) {
           var t = e.question,
@@ -16448,7 +16448,7 @@
           return (0, Ze.jsxs)("div", {
             className: "footer",
             children: [
-              (0, Ze.jsx)("img", { src: "../img/logo.png" }),
+              (0, Ze.jsx)("img", { src: "/F4C/img/logo.png" }),
               (0, Ze.jsx)("span", { children: "\u24b8 All rights reserved" }),
             ],
           });
@@ -16469,7 +16469,7 @@
                   (0, Ze.jsx)("div", { className: "mobile-bg" }),
                   (0, Ze.jsx)("div", {
                     className: "header__bg",
-                    src: "../img/headerbg2.png",
+                    src: "/F4C/img/headerbg2.png",
                   }),
                   (0, Ze.jsx)("div", {
                     className: "header",
@@ -16505,7 +16505,7 @@
                                 }),
                                 (0, Ze.jsx)("img", {
                                   className: "header__card-light light1",
-                                  src: "../img/home/light_card1.png",
+                                  src: "/F4C/img/home/light_card1.png",
                                   width: "200px",
                                   height: "100px",
                                 }),
@@ -16529,7 +16529,7 @@
                                 }),
                                 (0, Ze.jsx)("img", {
                                   className: "header__card-light light2",
-                                  src: "../img/home/light_card2.png",
+                                  src: "/F4C/img/home/light_card2.png",
                                   width: "200px",
                                   height: "100px",
                                 }),
@@ -16553,7 +16553,7 @@
                                 }),
                                 (0, Ze.jsx)("img", {
                                   className: "header__card-light light3",
-                                  src: "../img/home/light_card3.png",
+                                  src: "/F4C/img/home/light_card3.png",
                                   width: "200px",
                                   height: "100px",
                                 }),
@@ -16927,7 +16927,7 @@
                         className: "questions__inspector",
                         children: [
                           (0, Ze.jsx)("img", {
-                            src: "../img/home/questions-bg.png",
+                            src: "/F4C/img/home/questions-bg.png",
                             className: "questions__img__bg",
                           }),
                           (0, Ze.jsx)("p", {
@@ -17046,7 +17046,7 @@
                         className: "form__inspector",
                         children: [
                           (0, Ze.jsx)("img", {
-                            src: "../img/home/form-lights.png",
+                            src: "/F4C/img/home/form-lights.png",
                             className: "form__lights",
                           }),
                           (0, Ze.jsxs)("div", {
@@ -17094,7 +17094,7 @@
                   (0, Ze.jsx)("div", { className: "mobile-bg" }),
                   (0, Ze.jsx)("div", {
                     className: "header__bg",
-                    src: "../img/headerbg2.png",
+                    src: "/F4C/img/headerbg2.png",
                   }),
                   (0, Ze.jsx)("div", {
                     className: "header",
@@ -17130,7 +17130,7 @@
                                 }),
                                 (0, Ze.jsx)("img", {
                                   className: "header__card-light light1",
-                                  src: "../img/home/light_card1.png",
+                                  src: "/F4C/img/home/light_card1.png",
                                   width: "200px",
                                   height: "100px",
                                 }),
@@ -17151,7 +17151,7 @@
                                 }),
                                 (0, Ze.jsx)("img", {
                                   className: "header__card-light light2",
-                                  src: "../img/home/light_card2.png",
+                                  src: "/F4C/img/home/light_card2.png",
                                   width: "200px",
                                   height: "100px",
                                 }),
@@ -17172,7 +17172,7 @@
                                 }),
                                 (0, Ze.jsx)("img", {
                                   className: "header__card-light light3",
-                                  src: "../img/home/light_card3.png",
+                                  src: "/F4C/img/home/light_card3.png",
                                   width: "200px",
                                   height: "100px",
                                 }),
@@ -17540,7 +17540,7 @@
                         className: "questions__inspector",
                         children: [
                           (0, Ze.jsx)("img", {
-                            src: "../img/home/questions-bg.png",
+                            src: "/F4C/img/home/questions-bg.png",
                             className: "questions__img__bg",
                           }),
                           (0, Ze.jsx)("p", {
@@ -17655,7 +17655,7 @@
                         className: "form__inspector",
                         children: [
                           (0, Ze.jsx)("img", {
-                            src: "../img/home/form-lights.png",
+                            src: "/F4C/img/home/form-lights.png",
                             className: "form__lights",
                           }),
                           (0, Ze.jsxs)("div", {
