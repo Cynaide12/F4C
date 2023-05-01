@@ -1,3 +1,6 @@
 {
-  "homepage": "."
+  "homepage": ".",
+  "dependencies": {
+    "git": "^0.1.5"
+  }
 }
