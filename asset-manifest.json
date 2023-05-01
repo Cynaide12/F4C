@@ -33,9 +33,9 @@
     "static/media/logo.png": "/F4C/static/media/logo.1f6582e4e187665e5b35.png",
     "static/media/btnbgg.png": "/F4C/static/media/btnbgg.13b02efe229b0c59851c.png",
     "static/media/btn1.png": "/F4C/static/media/btn1.698a0805d508d3b125d6.png",
-    "index.html": "index.html",
-    "main.309d2863.css.map": "static/css/main.309d2863.css.map",
-    "main.ff803ed5.js.map": "static/js/main.ff803ed5.js.map"
+    "index.html": "/F4C/index.html",
+    "main.309d2863.css.map": "/F4C/static/css/main.309d2863.css.map",
+    "main.ff803ed5.js.map": "/F4C/static/js/main.ff803ed5.js.map"
   },
   "entrypoints": [
     "/F4C/static/css/main.309d2863.css",
