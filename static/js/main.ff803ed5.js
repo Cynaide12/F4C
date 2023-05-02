@@ -15812,7 +15812,7 @@
           (e.UseFetchers = "useFetchers"),
             (e.UseScrollRestoration = "useScrollRestoration");
         })(Ke || (Ke = {}));
-      var $e = t.p + "/F4C/static/media/logo.1f6582e4e187665e5b35.png",
+      var $e = t.p + "F4C/static/media/logo.1f6582e4e187665e5b35.png",
         Ge = "StartBtn_btn__uJyjL",
         Ze = t(184),
         Xe = function (e) {
