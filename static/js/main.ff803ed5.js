@@ -16334,7 +16334,7 @@
               children: [
                 (0, Ze.jsx)("img", {
                   className: wn,
-                  src: "..\\img\\home\\logo__modal.png",
+                  src: "\\F4C\\img\\home\\logo__modal.png",
                   width: "200px",
                   height: "200px",
                 }),
