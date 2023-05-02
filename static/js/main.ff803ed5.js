@@ -15812,7 +15812,7 @@
           (e.UseFetchers = "useFetchers"),
             (e.UseScrollRestoration = "useScrollRestoration");
         })(Ke || (Ke = {}));
-      var $e = t.p + "static/media/logo.1f6582e4e187665e5b35.png",
+      var $e = t.p + "/F4C/static/media/logo.1f6582e4e187665e5b35.png",
         Ge = "StartBtn_btn__uJyjL",
         Ze = t(184),
         Xe = function (e) {
@@ -17004,7 +17004,7 @@
                                       "\u0412\u044b \u0437\u0430\u043f\u043e\u043b\u043d\u044f\u0435\u0442\u0435 \u0444\u043e\u0440\u043c\u0443 \u043d\u0430 \u0441\u0430\u0439\u0442\u0435",
                                   }),
                                   (0, Ze.jsx)("img", {
-                                    src: "..\\img\\home\\join1.png",
+                                    src: "\\F4C\\img\\home\\join1.png",
                                   }),
                                 ],
                               }),
@@ -17019,7 +17019,7 @@
                                       "\u041c\u044b \u0441\u0432\u044f\u0437\u044b\u0432\u0430\u0435\u043c\u0441\u044f \u0441 \u0432\u0430\u043c\u0438 \u0438 \u043f\u0440\u043e\u0432\u043e\u0434\u0438\u043c \u0441\u043e\u0431\u0435\u0441\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u0435, \u043d\u0430 \u043a\u043e\u0442\u043e\u0440\u043e\u043c \u043f\u0440\u0438\u043d\u0438\u043c\u0430\u0435\u043c \u0440\u0435\u0448\u0435\u043d\u0438\u0435",
                                   }),
                                   (0, Ze.jsx)("img", {
-                                    src: "..\\img\\home\\join2.png",
+                                    src: "\\F4C\\img\\home\\join2.png",
                                   }),
                                 ],
                               }),
@@ -17034,7 +17034,7 @@
                                       "\u0412\u044b \u043f\u043e\u043f\u0430\u0434\u0430\u0435\u0442\u0435 \u0432 \u0437\u0430\u043a\u0440\u044b\u0442\u044b\u0439 \u043a\u0430\u043d\u0430\u043b \u0432 Discord \u0438 \u043d\u0430\u0447\u0438\u043d\u0430\u0435\u0442\u0435 \u0443\u0447\u0438\u0442\u044c\u0441\u044f",
                                   }),
                                   (0, Ze.jsx)("img", {
-                                    src: "..\\img\\home\\join3.png",
+                                    src: "\\F4C\\img\\home\\join3.png",
                                   }),
                                 ],
                               }),
@@ -17613,7 +17613,7 @@
                                       "You fill out the form on the website",
                                   }),
                                   (0, Ze.jsx)("img", {
-                                    src: "..\\img\\home\\join1.png",
+                                    src: "\\F4C\\img\\home\\join2.png",
                                   }),
                                 ],
                               }),
@@ -17628,7 +17628,7 @@
                                       "We contact you and conduct an interview where we we make a decision",
                                   }),
                                   (0, Ze.jsx)("img", {
-                                    src: "..\\img\\home\\join2.png",
+                                    src: "\\F4C\\img\\home\\join2.png",
                                   }),
                                 ],
                               }),
@@ -17643,7 +17643,7 @@
                                       "You get into a closed Discord channel and start learning",
                                   }),
                                   (0, Ze.jsx)("img", {
-                                    src: "..\\img\\home\\join3.png",
+                                    src: "\\F4C\\img\\home\\join3.png",
                                   }),
                                 ],
                               }),
